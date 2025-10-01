@@ -35,6 +35,87 @@
       "fechaCreacion": "2025-01-15T10:30:00",
       "fechaExpiracion": "2025-01-15T10:34:00",
       "estado": "activo"
+    },
+    {
+      "id": 2,
+      "codigo": "892341",
+      "premioId": "PRD002",
+      "NationalID": "0987654321",
+      "fechaCreacion": "2025-01-15T11:00:00",
+      "fechaExpiracion": "2025-01-15T11:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 3,
+      "codigo": "456789",
+      "premioId": "PRD003",
+      "NationalID": "1755566677",
+      "fechaCreacion": "2025-01-15T12:00:00",
+      "fechaExpiracion": "2025-01-15T12:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 4,
+      "codigo": "723891",
+      "premioId": "PRD004",
+      "NationalID": "0919079053",
+      "fechaCreacion": "2025-01-15T13:00:00",
+      "fechaExpiracion": "2025-01-15T13:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 5,
+      "codigo": "598234",
+      "premioId": "PRD005",
+      "NationalID": "1755566677",
+      "fechaCreacion": "2025-01-15T14:00:00",
+      "fechaExpiracion": "2025-01-15T14:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 6,
+      "codigo": "314567",
+      "premioId": "PRD006",
+      "NationalID": "1809876543",
+      "fechaCreacion": "2025-01-15T15:00:00",
+      "fechaExpiracion": "2025-01-15T15:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 7,
+      "codigo": "982341",
+      "premioId": "PRD007",
+      "NationalID": "0919079053",
+      "fechaCreacion": "2025-01-15T16:00:00",
+      "fechaExpiracion": "2025-01-15T16:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 8,
+      "codigo": "671234",
+      "premioId": "PRD008",
+      "NationalID": "1755566677",
+      "fechaCreacion": "2025-01-15T17:00:00",
+      "fechaExpiracion": "2025-01-15T17:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 9,
+      "codigo": "445678",
+      "premioId": "PRD009",
+      "NationalID": "1809876543",
+      "fechaCreacion": "2025-01-15T18:00:00",
+      "fechaExpiracion": "2025-01-15T18:04:00",
+      "estado": "activo"
+    },
+    {
+      "id": 10,
+      "codigo": "209876",
+      "premioId": "PRD010",
+      "NationalID": "1755566677",
+      "fechaCreacion": "2025-01-15T19:00:00",
+      "fechaExpiracion": "2025-01-15T19:04:00",
+      "estado": "activo"
     }
   ],
   "premios": [
@@ -95,7 +176,7 @@
       "puntos": 300
     },
     {
-      "id": "PRD009",
+      "id": 9,
       "titulo": "Pizza Personal",
       "descripcion": "Pizza recién horneada para ti",
       "imagen": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
