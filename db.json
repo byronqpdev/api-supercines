@@ -1,0 +1,112 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "NationalID": "0919079053",
+      "puntos": 150
+    },
+    {
+      "id": 2,
+      "NationalID": "0987654321",
+      "puntos": 85
+    },
+    {
+      "id": 3,
+      "NationalID": "1755566677",
+      "puntos": 999
+    },
+    {
+      "id": 4,
+      "NationalID": "0102030405",
+      "puntos": 12
+    },
+    {
+      "id": 5,
+      "NationalID": "1809876543",
+      "puntos": 540
+    }
+  ],
+  "codigoscanje": [
+    {
+      "id": 1,
+      "codigo": "150514",
+      "premioId": "PRD001",
+      "NationalID": "0919079053",
+      "fechaCreacion": "2025-01-15T10:30:00",
+      "fechaExpiracion": "2025-01-15T10:34:00",
+      "estado": "activo"
+    }
+  ],
+  "premios": [
+    {
+      "id": "PRD001",
+      "titulo": "Canguil Pequeñito",
+      "descripcion": "Disfruta de un delicioso canguil pequeño",
+      "imagen": "https://images.unsplash.com/photo-1578849278619-e73505e9610f?w=400&h=300&fit=crop",
+      "puntos": 150
+    },
+    {
+      "id": "PRD002",
+      "titulo": "Bebida Mediana",
+      "descripcion": "Refresca tu película con una bebida mediana",
+      "imagen": "https://images.unsplash.com/photo-1581006852262-e4307cf6283a?w=400&h=300&fit=crop&auto=format",
+      "puntos": 120
+    },
+    {
+      "id": "PRD003",
+      "titulo": "Hot Dog Clásico",
+      "descripcion": "El complemento perfecto para tu película",
+      "imagen": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=400&h=300&fit=crop",
+      "puntos": 200
+    },
+    {
+      "id": "PRD004",
+      "titulo": "Nachos con Queso",
+      "descripcion": "Crujientes nachos para compartir",
+      "imagen": "https://images.unsplash.com/photo-1582169296194-e4d644c48063?w=400&h=300&fit=crop",
+      "puntos": 250
+    },
+    {
+      "id": "PRD005",
+      "titulo": "Combo Pareja",
+      "descripcion": "2 canguiles grandes + 2 bebidas grandes",
+      "imagen": "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?w=400&h=300&fit=crop",
+      "puntos": 500
+    },
+    {
+      "id": "PRD006",
+      "titulo": "Entrada General",
+      "descripcion": "Boleto para función 2D cualquier día",
+      "imagen": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=400&h=300&fit=crop",
+      "puntos": 800
+    },
+    {
+      "id": "PRD007",
+      "titulo": "Dulces Variados",
+      "descripcion": "Mix de tus dulces favoritos",
+      "imagen": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&h=300&fit=crop",
+      "puntos": 180
+    },
+    {
+      "id": "PRD008",
+      "titulo": "Cerveza Artesanal",
+      "descripcion": "Disfruta una cerveza premium",
+      "imagen": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=400&h=300&fit=crop",
+      "puntos": 300
+    },
+    {
+      "id": "PRD009",
+      "titulo": "Pizza Personal",
+      "descripcion": "Pizza recién horneada para ti",
+      "imagen": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+      "puntos": 350
+    },
+    {
+      "id": "PRD010",
+      "titulo": "Entrada IMAX 3D",
+      "descripcion": "Experiencia cinematográfica premium",
+      "imagen": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&h=300&fit=crop",
+      "puntos": 1200
+    }
+  ]
+}
